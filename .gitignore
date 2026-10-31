@@ -10,5 +10,8 @@ wheels/
 .venv
 .pytest_cache
 
+# Rust build artifacts
+/rust/target/
+
 # Mac
 .DS_Store
